@@ -1,4 +1,4 @@
-name: "Deploy WordPress Website Files to Ubuntu Server"
+name: "Deploy Files Through Rsync to Remote Ubuntu-based Linux Server"
 description: "Deploy via rsync over SSH with enforced excludes and flexible path configuration."
 author: "FKW Digital <hello@fkwdigital.com>"
 runs:
